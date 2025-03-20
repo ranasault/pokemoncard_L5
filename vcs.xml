@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ImageRotatorApp/ImageRotatorApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/discussion-board2/discussion-board/discussion-board" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_calculation/flutter_calculation" vcs="Git" />
+  </component>
+</project>
